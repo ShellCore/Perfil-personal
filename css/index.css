@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#user_photo {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+}
+
+.menu_material {
+    width: 400px;
+}
+
+.profile {
+    background: #C2185B;
+    padding-left: 16px;
+    padding-top: 10px;
+}
+
+#user_name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+#user_profile {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
